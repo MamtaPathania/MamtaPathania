@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamtapathania&show_icons=true&locale=en" alt="mamtapathania" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamtapathania&" alt="mamtapathania" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=mamtapathania&](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?ga=GA1.1.2100965614.1707121506&semt=ais_hybrid&w=740)" alt="mamtapathania" /></p>
