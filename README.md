@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mamta Pathania</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<p><img align="center" src="https://raw.githubusercontent.com/MamtaPathania/MyPortfolio/refs/heads/main/src/images/portfolio.png" alt="mamtapathania" /></p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamtapathania&label=Profile%20views&color=0e75b6&style=flat" alt="mamtapathania" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamtapathania" alt="mamtapathania" /></a> </p>
@@ -27,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamtapathania&show_icons=true&locale=en" alt="mamtapathania" /></p>
 
-<p><img align="center" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?ga=GA1.1.2100965614.1707121506&semt=ais_hybrid&w=740" alt="mamtapathania" /></p>
